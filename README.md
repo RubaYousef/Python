@@ -1,2 +1,2 @@
 # Python
-Python projects
+Python projects for The Complete Python Pro Bootcamp for 2023
