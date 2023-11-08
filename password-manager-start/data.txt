@@ -1,0 +1,4 @@
+noon | robatee@hotmail.com | 4321
+Amazon | robatee@hotmail.com | password
+zara | robatee@hotmail.com | 9876
+absher | robatee@hotmail.com | helloword
